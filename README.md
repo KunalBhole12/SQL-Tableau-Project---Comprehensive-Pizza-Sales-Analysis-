@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis and Dashboard Project
 # 
-# 🔍 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁: 
+# 🔍 **𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁**: 
 Analyze pizza sales data to uncover key business insights, calculate critical Key Performance Indicators (KPIs), and visualize the findings through an interactive dashboard. This project aims to demonstrate proficiency in SQL and Tableau, and the ability to work with large datasets to drive business decisions.
 
 # 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: 
