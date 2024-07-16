@@ -1,4 +1,5 @@
 🍕 Pizza Sales Analysis and Dashboard Project
+
 🔍 Problem Statement:
 Analyze pizza sales data to uncover key business insights, calculate critical Key Performance Indicators (KPIs), and visualize the findings through an interactive dashboard. This project aims to demonstrate proficiency in SQL and Tableau, and the ability to work with large datasets to drive business decisions.
 
@@ -19,7 +20,6 @@ Sales Distribution: Analyzed sales by pizza category and size, revealing that th
 Visualization: Developed an interactive Tableau dashboard to present findings, enhancing the ability to communicate insights to stakeholders.
 
 💡 Recommendations:
-
 Targeted Promotions: Use peak sales period data to design targeted promotions and discounts.
 Inventory Management: Optimize inventory based on identified sales trends to reduce waste and increase efficiency.
 Product Mix: Focus on popular categories and sizes (Classic category and Large size) to maximize sales.
