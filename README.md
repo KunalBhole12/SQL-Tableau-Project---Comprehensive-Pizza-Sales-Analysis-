@@ -13,7 +13,6 @@ To extract and analyze pizza sales data using SQL, perform trend and sales distr
 - Top Performing Categories: The Classic pizza category contributes the most to total sales, followed by the Supreme category. 
 - Top Performing Sizes: Large pizzas account for the highest percentage of sales (46%). 
 - Order Value and Volume: The average order value is $38.30, and the average pizzas per order are 2.32.
-- Sales Distribution by Size and Category: Large pizzas and Classic category pizzas are the best sellers. 
 
 # 💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻: 
 
